@@ -1,27 +1,45 @@
-# CepAngular
+# Pesquisa CEP - ViaCep
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.5.
 
-## Development server
+Este é um projeto Angular simples que permite aos usuários pesquisar um CEP e obter informações sobre o endereço correspondente usando a API do ViaCep.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Caso queira ver como é o projeto final, entre o link do <a href="https://pesquisa-cep-angular.vercel.app/">vercel</a>:
+https://pesquisa-cep-angular.vercel.app/
 
-## Code scaffolding
+(Esse projeto foi feito com [Angular CLI](https://github.com/angular/angular-cli) na versão 15.1.5.)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<h2>Funcionalidades</h2>
+<ul>
+<li>Pesquisa de CEP.</li>
+<li>Exibição das informações do endereço (logradouro, bairro, cidade, estado).</li>
 
-## Build
+<h2>Pré-requisitos</h2>
+Certifique-se de ter o Node.js e o npm instalados em seu sistema.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+<h2>Configuração</h2>
 
-## Running unit tests
+<ol>
+  <li>Clone este repositório para o seu ambiente local:</li>
+  `git clone https://github.com/seu-usuario/pesquisa-cep-angular.git](https://github.com/DaviGFiguer/Pesquisa-CEP-Angular`
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+  <li>Navegue até o diretório do projeto</li>
 
-## Running end-to-end tests
+  <li>Instale as dependências do projeto:</li>
+  `npm install`
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+</ol>
 
-## Further help
+<h2>Uso: </h2>
+<ol>
+  <li>Inicie o servidor de desenvolvimento:</li>
+  ng serve
+  <li>Abra um navegador da web e vá para http://localhost:4200.</li>
+</ol>
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+<h2>Contribuindo</h2>
+Sinta-se à vontade para contribuir com melhorias, novas funcionalidades ou correções de bugs. Abra um PR (Pull Request).
+
+<h2>Agradecimentos</h2>
+Agradecemos ao ViaCep por fornecer a API gratuita para consulta de CEP.
+
+
