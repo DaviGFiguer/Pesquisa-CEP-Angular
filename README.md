@@ -3,7 +3,7 @@
 
 Este é um projeto Angular simples que permite aos usuários pesquisar um CEP e obter informações sobre o endereço correspondente usando a API do ViaCep.
 
-Caso queira ver como é o projeto final, entre o link do <a href="https://pesquisa-cep-angular.vercel.app/">vercel</a>:
+Caso queira ver como é o projeto final, entre o link do vercel:
 https://pesquisa-cep-angular.vercel.app/
 
 (Esse projeto foi feito com [Angular CLI](https://github.com/angular/angular-cli) na versão 15.1.5.)
