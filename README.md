@@ -20,7 +20,7 @@ Certifique-se de ter o Node.js e o npm instalados em seu sistema.
 
 <ol>
   <li>Clone este repositório para o seu ambiente local:</li>
-  `git clone https://github.com/seu-usuario/pesquisa-cep-angular.git](https://github.com/DaviGFiguer/Pesquisa-CEP-Angular`
+  `git clone https://github.com/DaviGFiguer/Pesquisa-CEP-Angular`
 
   <li>Navegue até o diretório do projeto</li>
 
