@@ -1,0 +1,41 @@
+.Form-group {
+  background: rgb(18, 227, 154);
+  background: linear-gradient(0deg, rgba(18, 227, 154, 1) 0%, rgba(11, 199, 102, 1) 36%, rgb(26, 208, 87) 100%);
+  background-repeat: no-repeat;
+  height: 100vh;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+}
+
+input {
+  border-radius: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 20px;
+  border-style: none;
+  height: 50px;
+  width: 100%;
+  text-align: center;
+  font-weight: bold;
+}
+
+label {
+
+  text-align: center;
+  padding-top: 30px;
+  font-weight: bold;
+}
+
+h1 {
+  text-align: center;
+
+}
+
+.resultado {
+  color: white;
+}
